@@ -1,0 +1,5 @@
+
+python-dotenv
+py-solc-x
+web3==5.31.3
+Flask
