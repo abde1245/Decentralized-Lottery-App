@@ -7,7 +7,7 @@ import "@chainlink/contracts/src/v0.8/vrf/VRFConsumerBaseV2.sol";
 
 /**
  * @title A Decentralized Lottery Contract
- * @author YourName
+ * @author Abhradeep Dey
  * @notice This contract is for creating a decentralized lottery
  * @dev Implements Chainlink VRF V2 for provably random winner selection
  */
